@@ -1,0 +1,13 @@
+.sub1 {
+    color: red;
+    background-color: darkcyan;
+    border-radius: 5px;
+    border: 4px dotted;
+    -webkit-box-shadow: 20px 13px 48px 39px rgba(0, 0, 0, 0.59);
+    -moz-box-shadow: 20px 13px 48px 39px rgba(0, 0, 0, 0.59);
+    box-shadow: 20px 13px 48px 39px rgba(0, 0, 0, 0.59);
+}
+
+.sub2 {
+    color: blue;
+}
